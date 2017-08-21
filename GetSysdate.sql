@@ -3,3 +3,4 @@ as
 begin
 p_date:= SYSDATE;
 end;
+/
